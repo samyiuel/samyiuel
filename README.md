@@ -8,7 +8,6 @@
     }
 }
 ```
-
 > System Analysis and Development degree at Uninter :mortar_board:
 
 ![](https://geps.dev/progress/30)
