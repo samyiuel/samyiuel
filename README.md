@@ -11,7 +11,7 @@
 
 > System Analysis and Development degree at Uninter :mortar_board:
 
-![](https://geps.dev/progress/30)
+![](https://geps.dev/progress/15)
 
 > What I know :bulb:
 
