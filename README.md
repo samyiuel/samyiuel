@@ -58,6 +58,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AnyDesk](https://img.shields.io/static/v1?style=for-the-badge&message=AnyDesk&color=EF443B&logo=AnyDesk&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 > Others
 
