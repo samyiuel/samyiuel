@@ -14,7 +14,7 @@
 <p align="center">Degree</p>
 <br>
 
-> System Analysis and Development degree at Uninter :mortar_board:
+> Mobile Development degree at Uninter :mortar_board:
 
 ![](https://geps.dev/progress/15)
 
@@ -34,7 +34,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 > Data
 
